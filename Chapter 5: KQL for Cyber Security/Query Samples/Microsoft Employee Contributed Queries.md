@@ -1,11 +1,11 @@
 ## KQL queries contributed by Microsoft employees within this chapter
 #### Use the copy option (to the right of each code box) to copy the query to paste into your own environment
 
+#### Monitor EntraId dynamic group processing for membership changes. 
+
 Why you should run it: 
 
-Monitor EntraId dynamic group processing for membership changes. 
-
-Contributed by: Some dude
+Contributed by: **Some dude**
 
 ```KQL
 
